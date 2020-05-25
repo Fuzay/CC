@@ -1,0 +1,17 @@
+Computer Craft is a Minecraft Mod for Forge.
+He can be used on the minecraft versions :
+
+  1.2.5 ( version 1.41 of the mod )
+  1.3.2 ( version 1.45 of the mod )
+  1.4.4 ( version 1.47 of the mod )
+  1.4.5 ( version 1.47 of the mod )
+  1.4.6 ( version 1.5 of the mod )
+  1.4.7 ( version 1.5 of the mod )
+  1.5 ( version 1.51 of the mod )
+  1.5.1 ( version 1.52 of the mod )
+  1.5.2 ( version 1.53 of the mod )
+  1.6.2 ( versions 1.55 to 1.56 of the mod )
+  1.6.4 ( versions 1.57 to 1.63 of the mod )
+  1.7.10 ( versions 1.64 to 1.75 of the mod )
+  1.8 ( version 1.76 of the mod )
+  1.8.9 ( versions 1.77 to 1.78 of the mod )
